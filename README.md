@@ -1,8 +1,8 @@
 # sydney-bikeability
 
-# Bikeability Scores in Sydney
+Computing bikeability scores in Sydney for each local district. Assignment for DATA 2901.
 
-Computing bikeability scores in Sydney for each local district. Assignment for DATA 2901. 
+# Bikeability Scores in Sydney 
 
 This is based on the [WalkScore](https://www.walk.score.com/AU-NSW/Sydney) computed based on density, diversity, design, destination accessibility and distance to cycling infrastructure or transport. Can check if bikeability correlates to property values.
 
